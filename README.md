@@ -1,6 +1,6 @@
-# Software Development 2 - To Do List App
+# Software Development 2 - To-Do List App
 
-To Do List App created for Software Development 2  
+To-Do List App created for Software Development 2  
 
 ## Table of contents
 
@@ -19,27 +19,24 @@ To Do List App created for Software Development 2
 
 Users should be able to:
 
-- Add to do list items
-- Delete to do list items
-- View to do list items
+- Add to-do list items
+- Delete to-do list items
+- View to-do list items
 
 ### Screenshot
 
-![](./screenshot.jpg)
-![](./screenshot.jpg)
-![](./screenshot.jpg)
-![](./screenshot.jpg)
-![](./screenshot.jpg)
-![](./screenshot.jpg)
-![](./screenshot.jpg)
+![](./ToDoApp1.png)
+![](./ToDoApp2.png)
+![](./ToDoApp3.png)
+![](./ToDoApp4.pmg)
+![](./ToDoApp5.png)
+![](./ToDoApp6.png)
+![](./ToDoApp7.png)
  
-
-Then crop/optimize/edit your image however you like, add it to your project, and update the file path in the image above.
-
 
 ## My process
 
-For this class we created the application in different stages. First, I created the basic structure of the application in Java, then added a database in MySQL with Hibernate,
+For this class, we created the application in different stages. First, I created the basic structure of the application in Java, then added a database in MySQL with Hibernate,
 and finally created the UI with JSP and Bootstrap.
 
 ### Built with
@@ -51,5 +48,5 @@ and finally created the UI with JSP and Bootstrap.
 
 ## Author
 
-- Website - Gabriela Cardenas (https://www.your-site.com)
+- Website - Gabriela Cardenas (https://github.com/gcardenasdev)
 
